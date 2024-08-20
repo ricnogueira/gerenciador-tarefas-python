@@ -13,10 +13,11 @@ memória.
 1. Certifique-se de ter Python instalado em seu sistema.
 2. Clone este repositório:
    git clone https://github.com/ricnogueira/gerenciador-tarefas-python
-3. Navegue até o diretório do projeto:
+3. Navegue até o diretório do projeto com o comando:
    cd gerenciador-tarefas-python
-4. python gerenciador_tarefas.py
-5. Siga as instruções no menu interativo para gerenciar suas tarefas.
+4. Execute o programa com o comando:
+   python gerenciador_tarefas.py
+6. Siga as instruções no menu interativo para gerenciar suas tarefas.
 ## Estrutura do projeto
 - `gerenciador_tarefas.py`: Contém todo o código do gerenciador de
 tarefas.
